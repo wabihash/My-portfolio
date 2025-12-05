@@ -5,7 +5,7 @@ import userData from './components/userData'
 function App() {
 
   return (
-    <div className='all-container'>    cd "C:\Users\Wabi\Evangadi menu\folder"    cd "C:\Users\Wabi\Evangadi menu\folder"
+    <div className='all-container'>   
        <header className="title">
         <h1>Ethio Menu</h1>
         <div></div>
