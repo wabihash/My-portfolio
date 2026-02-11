@@ -16,7 +16,7 @@ export default class Evan extends Component {
           </div>
           <div className="title-price">
             <h3> {title}</h3>
-            <p> {price}</p>
+            <p> {price} $</p>
           </div>
 
           <div className="food-desc">
